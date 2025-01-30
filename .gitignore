@@ -1,3 +1,7 @@
-**/node_modules/
-**/dist/
-**/.parcel-cache/
+# Ignore all .log files
+*.log
+
+# Ignore build directory
+/build/
+**/node_modules
+dist
